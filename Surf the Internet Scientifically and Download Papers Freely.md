@@ -6,7 +6,8 @@ For PC:
 ![lantern](http://7xtauc.com2.z0.glb.clouddn.com/Lantern.png)  
 
 For Android in China:  
-![GooglePlay](http://7xtauc.com2.z0.glb.clouddn.com/GooglePlay.png)  
+![GooglePlay](http://7xtauc.com2.z0.glb.clouddn.com/GooglePlay.png)   
+Test Passed on Mi Note Pro.
 
 ---
 
