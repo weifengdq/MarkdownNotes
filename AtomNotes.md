@@ -40,4 +40,20 @@ git clone https://github.com/mark-hahn/markdown-scroll-sync
 cd markdown-scroll-sync/
 npm install
 ```
+---  
+## convert-to-utf8 ##
+ConvertToUTF8 package for editing and saving files encoded in Shift_JIS, EUC-JP, CP932, GBK, BIG5, BIG5-HKSCS, EUC-KR etc.   
+For example, if your files edit in other editor and encoded in GBK, then you open it with Atom, you will see like this:  
+![messy code](http://7xtauc.com2.z0.glb.clouddn.com/wf7.png)  
+Then, you need to install the convert-to-utf8 package.
+
+```
+cd ~/.atom/packages
+git clone https://github.com/dongri/convert-to-utf8
+cd convert-to-utf8/
+npm install
+```   
+Reload Window,  Menu Bar: Packages-->ConvertToUTF8-->GBK, Then it will be OK:   
+![normal](http://7xtauc.com2.z0.glb.clouddn.com/wf8.png)  
+
 ---
