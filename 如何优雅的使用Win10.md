@@ -116,4 +116,4 @@ Paper免费下载：[Sci-Hub](http://sci-hub.cc/)
 
 一个5年搞基攻城狮的一时兴起(1天折腾)， 如果喜欢， 可以到GitHub上follow或者star, 不定期更新： https://github.com/weifengdq .  
 
-转载请注明出处.  
+转载请注明[出处](https://github.com/weifengdq/MarkdownNotes/blob/master/%E5%A6%82%E4%BD%95%E4%BC%98%E9%9B%85%E7%9A%84%E4%BD%BF%E7%94%A8Win10.md).  
