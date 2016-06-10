@@ -102,7 +102,8 @@ epub/mobi等电子书管理和阅读: [Calibre](https://calibre-ebook.com/) (可
 
 [Github Desktop](https://desktop.github.com/)  
 
-[Atom](https://atom.io/) ,这篇Markdown文档就是用它写的, 几个Atom 插件：
+[Atom](https://atom.io/) ,这篇Markdown文档就是用它写的, 几个Atom 插件：  
+
 - [activate power mode](https://github.com/JoelBesada/activate-power-mode) (写文章写代码很带感)    
 
 - [markdown scroll sync](https://github.com/mark-hahn/markdown-scroll-sync) (Markdown同步滚动)  
@@ -122,7 +123,7 @@ Markdown的图床： [七牛云存储](http://www.qiniu.com/)(个人免费赠送
 [Google学术搜索](https://scholar.google.com.sg/schhp?hl=zh-CN)  
 
 Paper免费下载：[Sci-Hub](http://sci-hub.cc/)   
-  
+
 > ...to remove all barries in the way of science.  
 
 (这是一个灯塔国扼杀追求自由的互联网之子 和 哈萨克少女黑客捍卫学术自由的动人故事, 不要被俄文？吓到哦，最新的地址去[Sci-Hub的facebook](https://www.facebook.com/sci.hub.org) 去找，该网站配合上面的 [Google学术搜索](https://scholar.google.com.sg/schhp?hl=zh-CN) 食用味道更佳)
