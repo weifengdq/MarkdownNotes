@@ -14,7 +14,7 @@
 ## 常用软件
 解压缩： [Bandizip](https://www.bandisoft.com/bandizip/cn/) 或 [7-Zip](http://www.7-zip.org/download.html)
 
-科学上网(翻墙): [lantern](https://github.com/getlantern/lantern) (建议开机启动， 可以访问中国人访问不到/外国人访问不到(不勾选代理全部流量)/公司屏蔽的网站(勾选代理全部流量))  
+科学上网: [lantern](https://github.com/getlantern/lantern) (建议开机启动， 可以访问中国人访问不到/外国人访问不到(不勾选代理全部流量)/公司屏蔽的网站(勾选代理全部流量))  
 
 浏览器: Edge(自带) + Chrome (默认浏览器)   
 
