@@ -112,4 +112,6 @@ Paper免费下载：[Sci-Hub](http://sci-hub.cc/)
 ---
 
 ## 结语  
-这是一个5年搞基攻城狮的一时兴起， 如果喜欢， 可以到GitHub上follow或者star, 不定期更新： https://github.com/weifengdq 下期预告：如何优雅的使用OS X.
+当然, 在这个比较注意颜值的时代，再怎么优雅，5年前的电脑似乎也没有一个MacBook...  
+
+这是一个5年搞基攻城狮的一时兴起， 如果喜欢， 可以到GitHub上follow或者star, 不定期更新： https://github.com/weifengdq .
