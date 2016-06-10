@@ -19,47 +19,63 @@
 浏览器: Edge(自带) + Chrome (默认浏览器)   
 
 Chrome 扩展程序：
-- [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb)
->  Vimium provides keyboard shortcuts for navigation and control in the spirit of Vim.
-- [Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus/cfhdojbkjhnklbpkdaibdccddilifddb)
+- [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb)  
+
+>  Vimium provides keyboard shortcuts for navigation and control in the spirit of Vim.  
+
+- [Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus/cfhdojbkjhnklbpkdaibdccddilifddb)  
+
 > 享受没有恼人广告的网络世界。
 Adblock Plus for Google Chrome 会阻挡：  
 · 横幅  
 · YouTube 视频广告  
 · Facebook 广告  
 · 弹出窗口   
-· 所有其他显眼的广告
-- [closed tabs](https://chrome.google.com/webstore/detail/closed-tabs/eonffnnfmbfnmjpaiigdclmfelolemah)
-> This extension is designed to quickly recover closed tabs.
-- [Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc)
-> Browser extension (Chrome, Firefox, Opera and Safari) to show a code tree on GitHub and GitLab. Awesome for exploring project source without having to pull every single repository to your machine.
-- [保护眼睛(阿姆斯特朗回旋喷气式阿姆斯特朗墨镜)](https://chrome.google.com/webstore/detail/%E4%BF%9D%E6%8A%A4%E7%9C%BC%E7%9D%9B/fgadnbmmolnmbkbklpaojbogcopipopl)
+· 所有其他显眼的广告  
+
+- [closed tabs](https://chrome.google.com/webstore/detail/closed-tabs/eonffnnfmbfnmjpaiigdclmfelolemah)  
+
+> This extension is designed to quickly recover closed tabs.  
+
+- [Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc)  
+
+> Browser extension (Chrome, Firefox, Opera and Safari) to show a code tree on GitHub and GitLab. Awesome for exploring project source without having to pull every single repository to your machine.  
+
+- [保护眼睛(阿姆斯特朗回旋喷气式阿姆斯特朗墨镜)](https://chrome.google.com/webstore/detail/%E4%BF%9D%E6%8A%A4%E7%9C%BC%E7%9D%9B/fgadnbmmolnmbkbklpaojbogcopipopl)  
+
 > 1、她会把页面中*太亮*的背景色替换成比较柔和的绿色，而不是仅仅替换白色#FFF  
 2、如果替换背景色后文字颜色与新背景色太相近，她会自动把文字颜色替换为黑色#000  
 3、同2，如果边框颜色和新背景色太相近，她会把边框也替换成黑色
 4、你可以将不需要替换背景色的网站加入白名单，白名单会随chrome账号自动同步  
-4、她不会尝试替换输入框、代码高亮
+4、她不会尝试替换输入框、代码高亮  
 
-- [为知笔记网页剪辑器](https://chrome.google.com/webstore/detail/wiznote-web-clipper/jfanfpmalehkemdiiebjljddhgojhfab)
-> 使用“为知笔记”扩展程序，将网络上你需要的内容与网页保存到你自己的帐户
+- [为知笔记网页剪辑器](https://chrome.google.com/webstore/detail/wiznote-web-clipper/jfanfpmalehkemdiiebjljddhgojhfab)  
+
+> 使用“为知笔记”扩展程序，将网络上你需要的内容与网页保存到你自己的帐户  
+
 - [OneTab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall)  
-> 当您发现自己有太多的标签页时，单击OneTab图标，将所有标签页转换成一个列表。当您需要再次访问这些标签页时，可以单独或全部恢复它们.  
-当您的标签页位于OneTab列表时，您将节省高达95％的内存，因为你将减少Google Chrome浏览器中打开的标签页的数量。
 
-Chrome 应用：
-- [Google Keep](https://chrome.google.com/webstore/detail/google-keep-notes-and-lis/hmjkmjkepdijhoojdojkdfohbdgmmhki?utm_source=chrome-ntp-icon) （类似手机中的便签, 全平台覆盖）
+> 当您发现自己有太多的标签页时，单击OneTab图标，将所有标签页转换成一个列表。当您需要再次访问这些标签页时，可以单独或全部恢复它们.  
+当您的标签页位于OneTab列表时，您将节省高达95％的内存，因为你将减少Google Chrome浏览器中打开的标签页的数量。  
+
+Chrome 应用：  
+
+- [Google Keep](https://chrome.google.com/webstore/detail/google-keep-notes-and-lis/hmjkmjkepdijhoojdojkdfohbdgmmhki?utm_source=chrome-ntp-icon) （类似手机中的便签, 全平台覆盖）  
+
 > 可以在 Google Keep 中添加记事、清单和照片。如果时间紧迫，您还可以录制语音记事，Keep 会自动将其转录为文字，方便您以后搜索查找。
 
-下载: [EagleGet](http://www.eagleget.com/download/) + [百度云](https://pan.baidu.com/download)
+下载: [EagleGet](http://www.eagleget.com/download/) + [百度云](https://pan.baidu.com/download)  
 
-安全: Windows Defender(系统自带)
+安全: Windows Defender(系统自带)  
 
 垃圾注册表清理/启动项管理/软件卸载/隐私清理: [IObit Uninstaller](http://www.iobit.com/en/advanceduninstaller.php) 或者 [CCleaner](https://www.piriform.com/ccleaner/download)
 
-本地搜索：[Everything](https://www.voidtools.com/)
+本地搜索：[Everything](https://www.voidtools.com/)  
+
 > Locate files and folders by name instantly.
 
-护眼/色温调节: [F.lux](https://justgetflux.com/)
+护眼/色温调节: [F.lux](https://justgetflux.com/)  
+
 > f.lux fixes this: it makes the color of your computer's display adapt to the time of day, warm at night and like sunlight during the day.
 
 聊天: [QQ轻聊版](http://im.qq.com/lightqq/)
@@ -87,8 +103,10 @@ epub/mobi等电子书管理和阅读: [Calibre](https://calibre-ebook.com/) (可
 [Github Desktop](https://desktop.github.com/)  
 
 [Atom](https://atom.io/) ,这篇Markdown文档就是用它写的, 几个Atom 插件：
-- [activate power mode](https://github.com/JoelBesada/activate-power-mode) (写文章写代码很带感)  
-- [markdown scroll sync](https://github.com/mark-hahn/markdown-scroll-sync) (Markdown同步滚动)
+- [activate power mode](https://github.com/JoelBesada/activate-power-mode) (写文章写代码很带感)    
+
+- [markdown scroll sync](https://github.com/mark-hahn/markdown-scroll-sync) (Markdown同步滚动)  
+
 
 [Sublime Text](https://www.sublimetext.com/) (注册/解决中文乱码/编译运行C/C++/Python等 自行Google)
 
@@ -104,6 +122,7 @@ Markdown的图床： [七牛云存储](http://www.qiniu.com/)(个人免费赠送
 [Google学术搜索](https://scholar.google.com.sg/schhp?hl=zh-CN)  
 
 Paper免费下载：[Sci-Hub](http://sci-hub.cc/)   
+  
 > ...to remove all barries in the way of science.  
 
 (这是一个灯塔国扼杀追求自由的互联网之子 和 哈萨克少女黑客捍卫学术自由的动人故事, 不要被俄文？吓到哦，最新的地址去[Sci-Hub的facebook](https://www.facebook.com/sci.hub.org) 去找，该网站配合上面的 [Google学术搜索](https://scholar.google.com.sg/schhp?hl=zh-CN) 食用味道更佳)
