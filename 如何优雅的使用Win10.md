@@ -3,7 +3,7 @@
 ---
 
 ## 硬件/系统/原则
-硬件： 480G SSD + 8G 内存, 1000元（~~可以~~以内）可以配齐. 5到6年前的好多电脑最大只支持支持8G内存.
+硬件： 480G SSD + 8G 内存, 1000元（~~可以~~以内）可以配齐. 5到6年前的好多电脑最大只支持8G内存.
 
 系统： Win10 (x86或x64).
 
@@ -84,7 +84,7 @@ Chrome 应用：
 
 音乐: [网易云音乐](http://music.163.com/) (PC版功能较全, UWP版的最漂亮)  
 
-视频播放器: [PotPlayer](https://potplayer.daum.net/) 或者 QQ影音(http://player.qq.com/)  
+视频播放器: [PotPlayer](https://potplayer.daum.net/) 或者 [QQ影音](http://player.qq.com/)  
 
 办公: [Office 2016](http://jingyan.baidu.com/article/90895e0fccf91c64ec6b0b00.html)　
 
