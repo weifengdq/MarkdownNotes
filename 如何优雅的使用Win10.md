@@ -19,7 +19,6 @@
 浏览器: Edge(自带) + Chrome (默认浏览器)   
 
 Chrome 扩展程序：
-
 - [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb)  
 
 >  Vimium provides keyboard shortcuts for navigation and control in the spirit of Vim.  
