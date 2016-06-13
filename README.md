@@ -1,6 +1,6 @@
 # MarkdownResource
 
-Here, for weifengdq's Notes.
+Here, for weifengdq's CS Notes.
 
 - Resource:
 Place some images used in Markdown files.  You can copy the URL of image, then change 'blob' to 'raw', That's all!  
