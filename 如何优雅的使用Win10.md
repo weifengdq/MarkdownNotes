@@ -94,7 +94,7 @@ PDF: [福昕阅读器](http://www.foxitsoftware.cn/products/reader/) (离线版�
 
 翻译: [有道词典](http://dict.youdao.com/)
 
-区域/窗口截图: [PickPick](http://ngwin.com/picpick) 或者 QQ自带的截图 或者 QQ拼音自带的截图 (其实金山毒霸自带的截图设计理念最人性化, 可惜没独立出来)  
+区域/窗口截图: [PicPick](http://ngwin.com/picpick) 或者 QQ自带的截图 或者 QQ拼音自带的截图 (其实金山毒霸自带的截图设计理念最人性化, 可惜没独立出来)  
 
 Gif录制: [LICEcap](http://www.cockos.com/licecap/) (跨平台) 或者 [GifCam](http://blog.bahraniapps.com/gifcam/)
 
