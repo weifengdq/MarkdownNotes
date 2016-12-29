@@ -12,5 +12,8 @@
 
 * Hole to hole Clearance \(Gap = 10mil\)
 
+* 参考：![](/assets/徐工布线规则.png)
+
+
 
 
