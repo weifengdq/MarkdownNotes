@@ -1,3 +1,5 @@
+之前一直使用Lantern科学上网的, 无奈16年下半年开始就不尽人意了, 元旦去武汉玩, 经同学演示, 瞬间觉得姿势水平有待提高, 开始吧:
+
 \[搬瓦工中文网\]\([http://banwagong.cn/\](http://banwagong.cn/\)\), 可以在这里先查看下搬瓦工的中文介绍和优惠活动.
 
 我选择的是凤凰城的这个方案:
@@ -26,28 +28,49 @@
 
 Manage里面可以查看IP地址等信息, Control Panel可以查看使用IP, SSH Port, 各种信息等.
 
-使用Putty登录就可以了:
+点开KiwiVM Control Panel, 可以看到VPS服务器的详细信息:
 
-login as: root
+![](/assets/ControlPanel.png)
 
-password:
+点击左下角的Shasowsocks Server, Install ... -&gt; GoBack, 按照页面提示一步步来就可以了,  不久, 你就可以:
 
-```
-sudo apt-get upgrade
-sudo apt-get update
+![](/assets/北醒.png)
 
-# Install VNC Server
-sudo apt-get install vnc4server
+第一次登录会很慢, 之后就快多嘞!
 
-# Install GUI
-sudo apt-get install gnome-panel gnome-settings-daemon metacity nautilus gnome-terminal  
+使用类似的方法可以轻松实现Android, macOS, Linux的科学上网. 欢迎关注我的Github: [https://github.com/weifengdq](https://github.com/weifengdq), 这篇文章的地址: [https://github.com/weifengdq/MarkdownNotes/blob/master/BandwagonHOST.md](https://github.com/weifengdq/MarkdownNotes/blob/master/BandwagonHOST.md).
 
-vnc4server
-#password: 123abcAB
 
-# open vnc viwer
-104.224.139.215::5901
-```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
