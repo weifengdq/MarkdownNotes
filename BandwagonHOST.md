@@ -4,7 +4,7 @@
 
 ![](/assets/凤凰城方案.png)
 
-点进去\([https://bwh1.net/cart.php?a=confproduct&i=1\\)之后](https://bwh1.net/cart.php?a=confproduct&i=1\)之后), 选择年18.99美刀方案,:
+点进去\([https://bwh1.net/cart.php?a=confproduct&i=1\\)之后](https://bwh1.net/cart.php?a=confproduct&i=1\)之后\), 选择年18.99美刀方案,:
 
 ![](/assets/Product Configuration.png)
 
@@ -16,15 +16,19 @@
 
 ![](/assets/信息.png)
 
-截下来就是扫二维码付款了, 18.08美刀,  实际用支付宝支付126.87软妹币,  支付完成后页面居然无跳转, 一脸懵逼的我以为遇到了骗子, 还好回到
+截下来就是扫二维码付款了, 18.08美刀,  实际用支付宝支付126.87软妹币,  支付完成后页面居然无跳转, 一脸懵逼的我以为遇到了骗子, 还好回到\[主页\]\(https://bwh1.net/index.php\), 点击右上角用户名, 然后:
+
+![](/assets/services.png)
+
+然后
+
+![](/assets/Product.png)
+
+Manage里面可以查看IP地址等信息, Control Panel可以查看使用IP, SSH Port, 各种信息等.
 
 
 
-
-
-
-
-
+使用Putty登录
 
 
 
