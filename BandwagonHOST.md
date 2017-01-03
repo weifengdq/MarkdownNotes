@@ -38,39 +38,5 @@ Manage里面可以查看IP地址等信息, Control Panel可以查看使用IP, SS
 
 第一次登录会很慢, 之后就快多嘞!
 
-使用类似的方法可以轻松实现Android, macOS, Linux的科学上网. 欢迎关注我的Github: [https://github.com/weifengdq](https://github.com/weifengdq), 这篇文章的地址: [https://github.com/weifengdq/MarkdownNotes/blob/master/BandwagonHOST.md](https://github.com/weifengdq/MarkdownNotes/blob/master/BandwagonHOST.md).
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+使用类似的方法可以轻松实现Android, macOS, Linux的科学上网, 而且这是VPS, 不仅仅可以科学上网呦! 欢迎关注我的Github: [https://github.com/weifengdq](https://github.com/weifengdq), 这篇文章的地址: [https://github.com/weifengdq/MarkdownNotes/blob/master/BandwagonHOST.md](https://github.com/weifengdq/MarkdownNotes/blob/master/BandwagonHOST.md).
 
