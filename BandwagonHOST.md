@@ -16,7 +16,7 @@
 
 ![](/assets/信息.png)
 
-截下来就是扫二维码付款了, 18.08美刀,  实际用支付宝支付126.87软妹币,  支付完成后页面居然无跳转, 一脸懵逼的我以为遇到了骗子, 还好回到\[主页\]\(https://bwh1.net/index.php\), 点击右上角用户名, 然后:
+截下来就是扫二维码付款了, 18.08美刀,  实际用支付宝支付126.87软妹币,  支付完成后页面居然无跳转, 一脸懵逼的我以为遇到了骗子, 还好回到\[主页\]\([https://bwh1.net/index.php\](https://bwh1.net/index.php\)\), 点击右上角用户名, 然后:
 
 ![](/assets/services.png)
 
@@ -26,9 +26,57 @@
 
 Manage里面可以查看IP地址等信息, Control Panel可以查看使用IP, SSH Port, 各种信息等.
 
+使用Putty登录就可以了:
+
+login as: root
+
+password: 
 
 
-使用Putty登录
+
+```
+sudo apt-get upgrade
+sudo apt-get update
+
+# Install VNC Server
+sudo apt-get install vnc4server
+
+# Install GUI
+sudo apt-get install gnome-panel gnome-settings-daemon metacity nautilus gnome-terminal  
+
+vnc4server
+#password: 123abcAB
+
+# open vnc viwer
+104.224.139.215::5901
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
