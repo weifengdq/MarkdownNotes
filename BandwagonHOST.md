@@ -30,9 +30,7 @@ Manage里面可以查看IP地址等信息, Control Panel可以查看使用IP, SS
 
 login as: root
 
-password: 
-
-
+password:
 
 ```
 sudo apt-get upgrade
@@ -49,58 +47,7 @@ vnc4server
 
 # open vnc viwer
 104.224.139.215::5901
-
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
