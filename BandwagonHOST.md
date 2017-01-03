@@ -1,12 +1,12 @@
 之前一直使用Lantern科学上网的, 无奈16年下半年开始就不尽人意了, 元旦去武汉玩, 经同学演示, 瞬间觉得姿势水平有待提高, 开始吧:
 
-\[搬瓦工中文网\]\([http://banwagong.cn/\](http://banwagong.cn/\)\), 可以在这里先查看下搬瓦工的中文介绍和优惠活动.
+搬瓦工中文网\( http://banwagong.cn/ \), 可以在这里先查看下搬瓦工的中文介绍和优惠活动.
 
 我选择的是凤凰城的这个方案:
 
 ![](/assets/凤凰城方案.png)
 
-点进去\([https://bwh1.net/cart.php?a=confproduct&i=1\\)之后](https://bwh1.net/cart.php?a=confproduct&i=1\)之后\), 选择年18.99美刀方案,:
+点进去\(https://bwh1.net/cart.php?a=confproduct&i=1\)选择年18.99美刀方案:
 
 ![](/assets/Product Configuration.png)
 
