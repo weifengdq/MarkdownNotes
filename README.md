@@ -3,7 +3,13 @@
 Here, for weifengdq's CS Notes.
 
 * Resource:  
-  Place some images used in Markdown files.  You can copy the URL of image, then change 'blob' to 'raw', That's all!
+  Place some images used in Markdown files.  You can copy the URL of image, then change 'blob' to 'raw', That's all!  
+  20170107 Update:  
+  If a picture's URL:  
+  https://github.com/weifengdq/MarkdownNotes/blob/master/assets/Putty_YES.png  
+  Then the link should be changed as this now:  
+  https://raw.githubusercontent.com/weifengdq/MarkdownNotes/master/assets/Putty_YES.png  
+  It's unstable. So, the qiniu or local is suggested.
 
 * AtomNotes.md  
   Give the solution method of Atom packages's installation problem in Mac OS X.
@@ -18,6 +24,3 @@ Here, for weifengdq's CS Notes.
   In China, You know what I mean.
 
 * 如何优雅地使用Win10.
-
-
-
