@@ -14,5 +14,13 @@
 
 * 参考：![](/assets/徐工布线规则.png)
 
+## Altium 支持的数据格式
+
+参见: http://wiki.altium.com/plugins/viewsource/viewpagesrc.action?pageId=12910950
+
+
+
+
+
 
 
