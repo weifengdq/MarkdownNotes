@@ -18,15 +18,15 @@ Intel收购Altera后, 开始疯狂的往CPU里塞FPGA, 或者叫SoC, 联想到�
 
 开阔思维, 多听建议.
 
-把技术从云端调到前端, 部分软件硬件话, 达到功耗或算法的2~3个数量级的提升, 可以参考 [/XMOS](/XMOS), 那个麦克风阵列处理的芯片, 或许是地平线机器人的一个目标.
+把技术从云端调到前端, 部分软件硬件话, 达到功耗或算法的2~3个数量级的提升, 可以参考 [http://www.xmos.com/ ](http://www.xmos.com/ "XMOS")XMOS, 那个麦克风阵列处理的芯片, 或许是地平线机器人的一个目标.
 
-XMOS的一个开源的开发板: [/ReSpeaker  ](/ReSpeaker)
+XMOS的一个开源的开发板: \[[ReSpeaker\]\(http://respeaker.io/\)  ](/ReSpeaker)
 
 Github地址: [https://github.com/respeaker](https://github.com/respeaker)
 
-淘宝Seeed科技 [/这里](/这里) 有卖.
+淘宝Seeed科技有卖.
 
-这个是XMOS+OpenWRT的方案, OpenWRT应该会越来越好. Lidar\(固态面阵\)+OpenWRT不错.
+这个是XMOS+OpenWRT的方案, OpenWRT应该会越来越好. Lidar\(固态面阵\)+OpenWRT不错. 
 
 足够长的雪道, 够湿粘, 早日跳入一个长远有价值的雪道, 有试错机会, 后来者由于人多, 一个失误, 就翻车爬不起来了.
 
