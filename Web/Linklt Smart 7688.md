@@ -14,7 +14,7 @@ Angry IP Scanner
 
 MediaTek Labs
 
-MT7688AN, 支持eMMC, PCIe, 最大支持256M RAM, 64M Flash.
+MT7688AN, 支持eMMC, PCIe
 
 登录 mylinkit.local, 需要先设置密码, 至少6个字母或者数字的组合.
 
@@ -36,29 +36,31 @@ Station模式
 
 Repeater模式
 
-
-
 ssh root@mylinkit.local
 
- ping –c 5 www.mediatek.com 根本ping不通
+ping –c 5 www.mediatek.com 根本ping不通
 
 改成ping -c 5 www.baidu.com就好了
-
-
 
 Arduino那个, 不能翻墙的话, 会很受伤的...
 
 ls /dev  tty.usbmodem1411
 
-
-
 开发板选择 LinkIt Smart 7688 Duo
 
 端口选择mylinkit at 192.168.1.22\(视情况不同\)
 
-
-
 应该继续写如果有keyboardInterrupt异常, 就把灯关掉
+
+MT7688串口最大支持15200bps
+
+重新编译MT7688的固件, 下载到一个新片子中去? 
+
+SPI没有单片机的版本支持25MHz, 有单片机的版本只支持4MHz?
+
+
+
+
 
 
 
