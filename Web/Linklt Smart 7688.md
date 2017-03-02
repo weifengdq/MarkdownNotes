@@ -58,8 +58,6 @@ MT7688串口最大支持15200bps
 
 SPI没有单片机的版本支持25MHz, 有单片机的版本只支持4MHz?
 
-
-
 To use the toolchain, download and unzip it to a directory of your choice and denote the toolchain
 
 directory as CC\_TOOLS.
@@ -82,5 +80,23 @@ mDNS 是主机名和IP的映射?　win8后支持
 
 station模式仍然可以浏览器登录mylinkit.local
 
-https://cylonjs.com/   JavaScript Robotics
+[https://cylonjs.com/](https://cylonjs.com/)   JavaScript Robotics
+
+If a large amount of peripheral types need to be included, you may want to use some external
+
+libraries to implement the communication protocol. One of such protocol – Firmata is described
+
+in the following section
+
+pyFirmata PyMata
+
+Firmata Protocal over UART
+
+连接不成功的时候请确定在一个局域网中
+
+看完Get Start, 看Developer\_Guider, 接着看视频, 看一下淘宝做的项目.
+
+
+
+
 
