@@ -54,15 +54,33 @@ ls /dev  tty.usbmodem1411
 
 MT7688串口最大支持15200bps
 
-重新编译MT7688的固件, 下载到一个新片子中去? 
+重新编译MT7688的固件, 下载到一个新片子中去?
 
 SPI没有单片机的版本支持25MHz, 有单片机的版本只支持4MHz?
 
 
 
+To use the toolchain, download and unzip it to a directory of your choice and denote the toolchain
 
+directory as CC\_TOOLS.
 
+scp一个文件夹, Samba也可以用
 
+STM32, Cortex-A, MIPS之类的都可以烧写一个自定义的Bootloder, 然后通过串口USB口等更新程序!!!
 
+bootlader可以通过JTAG等烧录. 电脑的Bootloader呢?
 
+You can develop on a Windows computer by using a virtual machine running Ubuntu.
+
+或者直接一台Mac搞定 哈哈哈
+
+pySerial time库
+
+OpenWRT 的 OPKG Package Manager
+
+mDNS 是主机名和IP的映射?　win8后支持
+
+station模式仍然可以浏览器登录mylinkit.local
+
+https://cylonjs.com/   JavaScript Robotics
 
