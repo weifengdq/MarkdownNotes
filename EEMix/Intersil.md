@@ -27,5 +27,11 @@ ISL29501有一个0xA4的基地址: 1 0 1 0 1 A2 A1 0
 >
 > After ISL29501 has been initialized, deasserting CEn \(high\) will retain the programmed register values
 
+**SS Pin:**
+
+> Sample Start \(SS\) pin is an input logic signal, which triggers the free running mode. The purpose is to start the ISL29501 sensing function by the external Host.
+>
+> If there is an additional request during the process of active data capture the request is ignored.
+
 
 
