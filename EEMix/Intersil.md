@@ -21,21 +21,11 @@ ISL29501有一个0xA4的基地址: 1 0 1 0 1 A2 A1 0
 
 **CEn Pin:**
 
-> The CEn pin is an active low input pin. When asserted \(pull low\), the
+> The CEn pin is an active low input pin. When asserted \(pull low\), the device will bias the internal circuit blocks, band gaps, references and I2C interface. Configuring 0x01\[0\] to 0 will enable ISL29501.
 >
-> device will bias the internal circuit blocks, band gaps, references and
+> When the CEn pin is deasserted, the ISL29501 will be disabled with exception of the I2C interface and registers. Host can access registers via the I2C interface.
 >
-> I2C interface. Configuring 0x01\[0\] to 0 will enable ISL29501.
->
-> When the CEn pin is deasserted, the ISL29501 will be disabled
->
-> with exception of the I2C interface and registers. Host can access
->
-> registers via the I2C interface.
->
-> After ISL29501 has been initialized, deasserting CEn \(high\) will
->
-> retain the programmed register values
+> After ISL29501 has been initialized, deasserting CEn \(high\) will retain the programmed register values
 
 
 
