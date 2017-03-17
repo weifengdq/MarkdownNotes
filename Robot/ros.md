@@ -18,6 +18,10 @@ Turtlebot是在 kobuki 底盘的基础上搭建起来的？？？
 
 PCL格式 点云库
 
+DetphCloud and PointCloud
+
+Teleop:  Teleoperation\(远程操作\)
+
 ---
 
 ## Network Time Protocol
@@ -26,7 +30,7 @@ Clock synchronization is important for ROS. Chrony has been found to be the best
 
 * Install Chrony
 
-`sudo apt-get install chrony`
+`sudo apt-get install chrony`
 
 * manually sync NTP
 
