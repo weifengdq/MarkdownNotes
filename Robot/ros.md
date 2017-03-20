@@ -44,6 +44,8 @@ Turtlebot用的是 骁龙410的板子. DragonBoard 410c
 
 Both Ubuntu 14.04 and ROS Indigo are LTS \(Long Term Support\), meaning that you can depend on it for years. ROS Indigo is specifically designed to work with Ubuntu 14.04.
 
+Ubuntu可以直接复制粘贴一大段命令到终端， 然后顺序执行.
+
 ---
 
 ## Network Time Protocol
