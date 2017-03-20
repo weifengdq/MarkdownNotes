@@ -46,6 +46,20 @@ Both Ubuntu 14.04 and ROS Indigo are LTS \(Long Term Support\), meaning that you
 
 Ubuntu可以直接复制粘贴一大段命令到终端， 然后顺序执行.
 
+ROS看中文只需要在ROS前面加上cn即可： 
+
+http://wiki.ros.org/ROS/Introduction
+
+变成
+
+http://wiki.ros.org/cn/ROS/Introduction
+
+---
+
+ROS 运行时的“蓝图”是一种基于ROS通信基础结构的松耦合点对点进程网络。ROS实现了几种不同的通信方式，包括基于同步RPC样式通信的服务（services）机制，基于异步流媒体数据的话题（topics）机制以及用于数据存储的参数服务器（Parameter Server）。
+
+
+
 ---
 
 ## Network Time Protocol
