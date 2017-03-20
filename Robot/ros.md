@@ -22,6 +22,16 @@ DetphCloud and PointCloud
 
 Teleop:  Teleoperation\(远程操作\)
 
+先学rviz再看Turtlebot吧
+
+Gazebo simulator
+
+Turtlebot的教程： http://edu.gaitech.hk/index.html
+
+Learn Turtlebot and ROS:  http://learn.turtlebot.com/
+
+ROS中文教程：http://wiki.ros.org/cn/ROS/Tutorials
+
 ---
 
 ## Network Time Protocol
@@ -35,4 +45,14 @@ Clock synchronization is important for ROS. Chrony has been found to be the best
 * manually sync NTP
 
 `sudo ntpdate ntp.ubuntu.com`
+
+---
+
+If your terminals are not already pre-configured with the ROS environment variables, you need to set them in each new terminal you open. Just execute the below command \*before\* you execute any other ROS commands.
+
+```
+$ source /opt/ros/indigo/setup.bash
+```
+
+
 
