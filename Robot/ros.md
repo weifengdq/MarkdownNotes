@@ -42,6 +42,8 @@ TuetleBot2开放式移动机器人kobuki移动底座:载荷重量：5kg 编码�
 
 Turtlebot用的是 骁龙410的板子. DragonBoard 410c
 
+Both Ubuntu 14.04 and ROS Indigo are LTS \(Long Term Support\), meaning that you can depend on it for years. ROS Indigo is specifically designed to work with Ubuntu 14.04.
+
 ---
 
 ## Network Time Protocol
@@ -81,5 +83,5 @@ rosbridge\_websocket是实现手机遥控的核心部件,它负责实现手机�
 
 有关ros\_arduino\_python的配置,可以参考其[官网](http://wiki.ros.org/ros_arduino_python)
 
-节选自 [autolabor2机器人](http://wiki.make4e.com/doku.php?id=autolabor2%E6%9C%BA%E5%99%A8%E4%BA%BA:%E8%BD%AF%E4%BB%B6%E4%BB%8B%E7%BB%8D)
+节选自 [autolabor2机器人](http://wiki.make4e.com/doku.php?id=autolabor2机器人:软件介绍)
 
