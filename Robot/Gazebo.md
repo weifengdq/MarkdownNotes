@@ -89,13 +89,15 @@ or run this command in every new terminal:
 >
 > Use Ctrl+R combination to invoke reverse-i-search. Type letters, gaz for instance, and you will get a match for the recent command in your history which has gaz. You can press Ctrl+R again to go to the previous command in this search. When you see the proper command press Enter to execute it or Right Arrow to choose this command for editing.
 
+可以使用SketUp 3D建模, 然后拖进仿真.
 
+Ctrl+R, Gazebo
 
+Ctrl+R, Rviz 
 
+`sudo apt-get install ros-indigo-turtlebot-interactive-markers`
 
-
-
-
+`roslaunch turtlebot_interactive_markers interactive_markers.launch`
 
 
 
