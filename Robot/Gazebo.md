@@ -93,6 +93,8 @@ or run this command in every new terminal:
 
 Ctrl+R, Gazebo
 
+`roslaunch turtlebot_gazebo turtlebot_world.launch`
+
 Ctrl+R, Rviz
 
 `sudo apt-get install ros-indigo-turtlebot-interactive-markers`
@@ -100,6 +102,4 @@ Ctrl+R, Rviz
 `roslaunch turtlebot_interactive_markers interactive_markers.launch`
 
 Rviz里面选 Interact, 就可以前后移动和旋转了.
-
-
 
