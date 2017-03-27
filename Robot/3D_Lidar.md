@@ -1,30 +1,30 @@
 ### Arduino-based LIDAR Scanner
 
-https://www.youtube.com/watch?v=xkut3yRL61U
+[https://www.youtube.com/watch?v=xkut3yRL61U](https://www.youtube.com/watch?v=xkut3yRL61U)
 
-http://www.qcontinuum.org/lidar
+[http://www.qcontinuum.org/lidar](http://www.qcontinuum.org/lidar)
 
 ### Home made 3D laser scanner
 
-https://www.youtube.com/watch?v=GZvgMjkyJgI
+[https://www.youtube.com/watch?v=GZvgMjkyJgI](https://www.youtube.com/watch?v=GZvgMjkyJgI)
 
-http://www.3dmaxprinter.com/shop/3d-scanner/3d-scanner-diy-kit-for-scanning-3d-printer-objects/
+[http://www.3dmaxprinter.com/shop/3d-scanner/3d-scanner-diy-kit-for-scanning-3d-printer-objects/](http://www.3dmaxprinter.com/shop/3d-scanner/3d-scanner-diy-kit-for-scanning-3d-printer-objects/)
 
-http://horus.readthedocs.io/en/release-0.2/
+[http://horus.readthedocs.io/en/release-0.2/](http://horus.readthedocs.io/en/release-0.2/)
 
-https://github.com/bqlabs/horus
+[https://github.com/bqlabs/horus](https://github.com/bqlabs/horus)
 
 ### Handheld XV-11 LIDAR with STM32F429 and MATLAB
 
-https://www.youtube.com/watch?v=WkW55b-WQx4
+[https://www.youtube.com/watch?v=WkW55b-WQx4](https://www.youtube.com/watch?v=WkW55b-WQx4)
 
-http://blog.tkjelectronics.dk/2014/08/handheld-xv-11-lidar-with-stm32f429-and-matlab/
+[http://blog.tkjelectronics.dk/2014/08/handheld-xv-11-lidar-with-stm32f429-and-matlab/](http://blog.tkjelectronics.dk/2014/08/handheld-xv-11-lidar-with-stm32f429-and-matlab/)
 
-开源了: https://github.com/TKJElectronics/XV11Lidar\_STM32F429
+开源了: [https://github.com/TKJElectronics/XV11Lidar\_STM32F429](https://github.com/TKJElectronics/XV11Lidar_STM32F429)
 
-这家伙的博客略叼: http://blog.tkjelectronics.com/
+这家伙的博客略叼: [http://blog.tkjelectronics.com/](http://blog.tkjelectronics.com/)
 
-http://xv11hacking.wikispaces.com/LIDAR+Sensor
+[http://xv11hacking.wikispaces.com/LIDAR+Sensor](http://xv11hacking.wikispaces.com/LIDAR+Sensor)
 
 Finally the very future plans is to use the LIDAR coupled together with an Optical Flow Sensor on our Quadcopters to make them completely autonomous:
 
@@ -38,13 +38,13 @@ Mouse-based Optical Flow Sensor \(ADNS3080\)
 
 PX4FLOW Optical Flow Camera Board
 
-https://pixhawk.org/zh/modules/px4flow
+[https://pixhawk.org/zh/modules/px4flow](https://pixhawk.org/zh/modules/px4flow)
 
 擦, PIX有中文官网
 
 ### 航模维基百科
 
-http://www.crazepony.com/wiki.html
+[http://www.crazepony.com/wiki.html](http://www.crazepony.com/wiki.html)
 
 自主悬停&高度融合
 
@@ -66,7 +66,7 @@ GPS的应用范围? 太空? 太空的坐标如何唯一确定? 地球坐标系, 
 
 ### 光流传感器原理
 
-http://ardupilot.org/copter/docs/common-mouse-based-optical-flow-sensor-adns3080.html
+[http://ardupilot.org/copter/docs/common-mouse-based-optical-flow-sensor-adns3080.html](http://ardupilot.org/copter/docs/common-mouse-based-optical-flow-sensor-adns3080.html)
 
 没看懂啊...
 
@@ -74,13 +74,11 @@ http://ardupilot.org/copter/docs/common-mouse-based-optical-flow-sensor-adns3080
 
 翻译一下这篇 光流法测距原理.
 
+### TI 3DTOF
 
+https://www.youtube.com/watch?v=Qj4ymzTNwDw
 
-
-
-
-
-
+basler: https://www.youtube.com/channel/UCtXkcQgpYR9MrmUQlNSnoWQ
 
 
 
