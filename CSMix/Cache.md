@@ -6,3 +6,5 @@ Atom的拼写检查可以在 Spell Check package中关掉.
 
 参考: [在Atom中写作](http://mazhuang.org/atom-flight-manual/chapter-2-using-atom/writing-in-atom.html)
 
+Chrome的全屏模式和APP模式: http://www.cnblogs.com/abel/p/3235839.html
+
