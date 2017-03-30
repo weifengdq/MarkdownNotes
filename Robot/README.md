@@ -15,6 +15,7 @@ ROS机器人俱乐部: [http://www.rosclub.cn/](http://www.rosclub.cn/)
 * 控制部分正在走向统一:  STM32, 九轴, CP2104 USB转串口, Bootloder, C++, SBUS,PPM, PWM,SPI, IIC, USART, TF卡, 电机编码器接口...
 * 嵌入式部分还未统一: OpenWRT硬件, ARM, ATOM, Nvida GPU+CPU
 * 上层系统已经统一: ROS1.0, ROS2.0
+* 开发语言已经统一: 底层\(驱动等\)用C++\(Arduino, STM32, ROS驱动\), 上层用Python\(ROS, Tensorflow等\).
 * 传感器正在统一: 摄像头, Lidar, 毫米波, GPS, 气压计, 九轴
 * 机器人, 无人驾驶, 开源硬件, 开源软件, 深度学习...正在统一
 
