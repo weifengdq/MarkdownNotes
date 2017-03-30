@@ -8,6 +8,8 @@ ROS机器人俱乐部: [http://www.rosclub.cn/](http://www.rosclub.cn/)
 
 [http://www.robotos.net/](http://www.robotos.net/)
 
+直接用宋佳的那个小车不就好了? 后面用一个电机控制前进, 前面用一个电机控制转向, 类似飞思卡尔或者汽车的那种方式.
+
 ---
 
 轮式机器人，人形机器人，平衡车，旋翼, 固定翼, 无人车:
@@ -52,4 +54,8 @@ Python作为我事实上的标准语言\(ROS, Tensorflow, Processing, PyQT\), C+
 期间C++, Python, Yaml, SketchUp, OpenCV...的坑自己慢慢趟, 边用边学而不是刻意去学.
 
 概率机器人那本书
+
+ros by example
+
+
 
