@@ -25,6 +25,15 @@ ROS机器人俱乐部: [http://www.rosclub.cn/](http://www.rosclub.cn/)
 * 算法似乎也逐渐走向统一. 
 * 百花齐放, 百家争鸣.
 * 未来: 分布式, 无中心, 相互协作, 可定制, 可裁剪, 类似Linux, ROS2.0, Git, 区块链的思想.
+* 一块电池, 一个集成化供电方案: 24V, 12V, 5V\(5A\)
+
+---
+
+硬件:
+
+PixHawk
+
+[HandsFree平台](https://item.taobao.com/item.htm?spm=2013.1.20141002.7.6NkuYv&scm=1007.10009.70205.100200300000001&id=543431941639&pvid=946cc266-691f-4572-84a2-03520bc498f5)
 
 ---
 
