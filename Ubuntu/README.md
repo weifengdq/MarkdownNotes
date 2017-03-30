@@ -1,5 +1,7 @@
 STM32, Arduino
 
+Google Chrome, 各种扩展, Google Docs, Google Keep.
+
 编辑器:　Sublime Text, Atom, VS Code.
 
 PyCharm
