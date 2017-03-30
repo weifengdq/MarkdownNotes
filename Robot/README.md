@@ -10,6 +10,10 @@ ROS机器人俱乐部: [http://www.rosclub.cn/](http://www.rosclub.cn/)
 
 可以直接用Processing的Python版本.
 
+Nvidia Jetson TX1和TX2看起来很不错.
+
+国外的嵌入式计算都有 Developer Kit 和 Module两种. 类似我们的开发板和最小系统板两种.
+
 上位机可以选择TK1、RK3288、odroid、树莓派3, Intel Inside或者自配电脑。
 
 CM3\(树莓派3计算模块\)接口: sodimm ddr2, 从官方下载的原理图中得到的. 貌似是国际通用的, 内存条, IMX6核心板, 树莓派计算模块都是用这个接口的.
