@@ -10,6 +10,10 @@ ROS机器人俱乐部: [http://www.rosclub.cn/](http://www.rosclub.cn/)
 
 ---
 
+开源机器人项目介绍之--HANDS FREE: http://www.rosclub.cn/post-14.html
+
+---
+
 直接用宋佳的那个小车不就好了? 后面用一个电机控制前进, 前面用一个电机控制转向, 类似飞思卡尔或者汽车的那种方式. 3层可以放好多东西了...
 
 ---
@@ -26,7 +30,7 @@ ROS机器人俱乐部: [http://www.rosclub.cn/](http://www.rosclub.cn/)
 * 百花齐放, 百家争鸣.
 * 未来: 分布式, 无中心, 相互协作, 可定制, 可裁剪, 类似Linux, ROS2.0, Git, 区块链的思想.
 * 一块电池, 一个集成化供电方案: 24V, 12V, 5V\(5A\)
-* 接口统一: [带锁的GH端子](https://item.taobao.com/item.htm?id=39049036140&ali_refid=a3_420435_1006:1109288476:N:接插件:980eed201f95721a5a6821e64b7134f0&ali_trackid=1_980eed201f95721a5a6821e64b7134f0&spm=a230r.1.1989828.23.ZRV9TX)\(类似STWCX\), 4P一套, 端子线另买. 
+* 接口统一: [带锁的GH端子](https://item.taobao.com/item.htm?id=39049036140&ali_refid=a3_420435_1006:1109288476:N:接插件:980eed201f95721a5a6821e64b7134f0&ali_trackid=1_980eed201f95721a5a6821e64b7134f0&spm=a230r.1.1989828.23.ZRV9TX)\(类似STWXE\), 4P一套, 端子线另买.  [GH连接器](https://s.taobao.com/search?q=GH%E8%BF%9E%E6%8E%A5%E5%99%A8&imgfile=&js=1&stats_click=search_radio_all%3A1&initiative_id=staobaoz_20170330&ie=utf8).
 
 ---
 
