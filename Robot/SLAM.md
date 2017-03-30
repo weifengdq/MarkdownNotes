@@ -8,6 +8,8 @@
 
 SLAM必然要被深度学习取代
 
+http://www.rosclub.cn/post-628.html
+
 ---
 
 提供SLAM解决方案的公司:  
@@ -34,4 +36,10 @@ CE30加上RGB就是 奥比中光或者Kinect之类的吧? 就是ToF\(单发单�
 新产品必备的接口: Ethernet / Wi-Fi / Bluetooth 4.1 / USB, 再加上一个迎合旧技术的4针串口.
 
 激光雷达的量产技术...
+
+---
+
+路径规划, ROS使用的是?
+
+（Dijkstra，A\*等）
 
