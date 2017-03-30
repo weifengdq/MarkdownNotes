@@ -10,7 +10,7 @@ ROS机器人俱乐部: [http://www.rosclub.cn/](http://www.rosclub.cn/)
 
 ---
 
-开源机器人项目介绍之--HANDS FREE: http://www.rosclub.cn/post-14.html
+开源机器人项目介绍之--HANDS FREE: [http://www.rosclub.cn/post-14.html](http://www.rosclub.cn/post-14.html)
 
 ---
 
@@ -30,7 +30,8 @@ ROS机器人俱乐部: [http://www.rosclub.cn/](http://www.rosclub.cn/)
 * 百花齐放, 百家争鸣.
 * 未来: 分布式, 无中心, 相互协作, 可定制, 可裁剪, 类似Linux, ROS2.0, Git, 区块链的思想.
 * 一块电池, 一个集成化供电方案: 24V, 12V, 5V\(5A\)
-* 接口统一: [带锁的GH端子](https://item.taobao.com/item.htm?id=39049036140&ali_refid=a3_420435_1006:1109288476:N:接插件:980eed201f95721a5a6821e64b7134f0&ali_trackid=1_980eed201f95721a5a6821e64b7134f0&spm=a230r.1.1989828.23.ZRV9TX)\(类似STWXE\), 4P一套, 端子线另买.  [GH连接器](https://s.taobao.com/search?q=GH%E8%BF%9E%E6%8E%A5%E5%99%A8&imgfile=&js=1&stats_click=search_radio_all%3A1&initiative_id=staobaoz_20170330&ie=utf8).
+* 接口统一: [带锁的GH端子](https://item.taobao.com/item.htm?id=39049036140&ali_refid=a3_420435_1006:1109288476:N:接插件:980eed201f95721a5a6821e64b7134f0&ali_trackid=1_980eed201f95721a5a6821e64b7134f0&spm=a230r.1.1989828.23.ZRV9TX)\(类似STWXE\), 4P一套, 端子线另买.  [GH连接器](https://s.taobao.com/search?q=GH连接器&imgfile=&js=1&stats_click=search_radio_all%3A1&initiative_id=staobaoz_20170330&ie=utf8).
+* 激光雷达目前使用的是 XV-11, RPLidar A1 A2, EAI.
 
 ---
 
