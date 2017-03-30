@@ -10,6 +10,8 @@ ROS机器人俱乐部: [http://www.rosclub.cn/](http://www.rosclub.cn/)
 
 可以直接用Processing的Python版本.
 
+棋盘标定
+
 Python作为我事实上的标准语言, C++作为事实上的嵌入式开发语言.
 
 学习步骤:
@@ -19,9 +21,7 @@ Python作为我事实上的标准语言, C++作为事实上的嵌入式开发语
 * learn turtlebot and ros: [http://learn.turtlebot.com/](http://learn.turtlebot.com/), 只用在虚拟机中就可以, 去掉虚拟机的硬件加速让Gazebo运行起来. 只是吃内存的问题怎么解决?
 * 高博: 一起做RGB-D SLAM: [http://www.cnblogs.com/gaoxiang12/tag/一起做RGB-D SLAM/](http://www.cnblogs.com/gaoxiang12/tag/一起做RGB-D SLAM/)
 
-期间C++, Python, Yaml, SketchUp, OpenCV...的坑自己慢慢趟, 边用边学而不是刻意去学. 
+期间C++, Python, Yaml, SketchUp, OpenCV...的坑自己慢慢趟, 边用边学而不是刻意去学.
 
 概率机器人那本书
-
-
 
