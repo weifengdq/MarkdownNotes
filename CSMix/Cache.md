@@ -60,13 +60,21 @@ X模式 和 +模式
 
 四旋翼飞行器在空间共有6个自由度（分别沿3个坐标轴作平移和旋转动作）
 
- 麻省理工学院公开课：飞行器构造工程: http://open.163.com/special/opencourse/aircraftsystem.html
+麻省理工学院公开课：飞行器构造工程: [http://open.163.com/special/opencourse/aircraftsystem.html](http://open.163.com/special/opencourse/aircraftsystem.html)
 
 BLHeli是一个开源的电调硬件及软件项目。BLHeli电调的完善和流行是在2015年，跟随穿越机市场的发展。BLHeli电调是电调发展的里程碑，在10-30A电调领域，打破了原来几个大的电调厂商孤立闭源的格局。现在很多老牌电调品牌都推出了支持BLHeli固件的电调。
 
-好盈电调刷blheli程序:
+好盈电调刷blheli程序: [http://www.moz8.com/thread-31509-1-1.html](http://www.moz8.com/thread-31509-1-1.html)
 
-http://www.moz8.com/thread-31509-1-1.html
+HOW TO FLASH BLHELI\_S ESC FIRMWARE: https://oscarliang.com/flash-blheli-s-esc-firmware-fc-pass-through/
+
+STM32 ESC\(电子调速器, 电调\): http://vedder.se/tag/stm32-esc/
+
+http://vedder.se/2015/01/vesc-open-source-esc/
+
+https://github.com/vedderb/bldc-hardware
+
+
 
 ### 穿越机
 
@@ -74,9 +82,5 @@ http://www.moz8.com/thread-31509-1-1.html
 
 OSD模块有什么作用？可实时监控飞行器姿态，飞机姿态水平线、电压、计时器、姿态角度显示。
 
-参考: http://weibo.com/p/1001603965620155765261?from=page\_100606\_profile&wvr=6&mod=wenzhangmod
-
-
-
-
+参考: [http://weibo.com/p/1001603965620155765261?from=page\_100606\_profile&wvr=6&mod=wenzhangmod](http://weibo.com/p/1001603965620155765261?from=page_100606_profile&wvr=6&mod=wenzhangmod)
 
