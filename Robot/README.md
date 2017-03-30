@@ -8,7 +8,16 @@ ROS机器人俱乐部: [http://www.rosclub.cn/](http://www.rosclub.cn/)
 
 [http://www.robotos.net/](http://www.robotos.net/)
 
-可以直接用Processing的Python版本.
+---
+
+轮式机器人，人形机器人，平衡车，旋翼和固定翼:
+
+* 控制部分正在走向统一:  STM32, 九轴, CP2104 USB转串口, Bootloder, C++, SBUS,PPM, PWM,SPI, IIC, USART, TF卡, 电机编码器接口...
+* 上层系统已经统一: ROS1.0, ROS2.0
+* 传感器正在统一: 摄像头, Lidar, 毫米波, GPS, 气压计, 九轴
+* 机器人, 无人驾驶, 开源硬件, 开源软件, 深度学习...正在统一
+
+---
 
 Nvidia Jetson TX1和TX2看起来很不错.
 
@@ -16,11 +25,17 @@ Nvidia Jetson TX1和TX2看起来很不错.
 
 上位机可以选择TK1、RK3288、odroid、树莓派3, Intel Inside或者自配电脑。
 
-CM3\(树莓派3计算模块\)接口: sodimm ddr2, 从官方下载的原理图中得到的. 貌似是国际通用的, 内存条, IMX6核心板, 树莓派计算模块都是用这个接口的.
+CM3\(树莓派3计算模块\)接口: **sodimm ddr2**, 从官方下载的原理图中得到的. 貌似是国际通用的, 内存条, IMX6核心板, 树莓派计算模块都是用这个接口的.
+
+https://insights.ubuntu.com/2015/07/02/intel-compute-stick-now-comes-with-ubuntu/
 
 棋盘标定
 
+---
+
 Python作为我事实上的标准语言\(ROS, Tensorflow, Processing, PyQT\), C++作为事实上的嵌入式开发语言.
+
+可以直接用Processing的Python版本.
 
 学习步骤:
 
