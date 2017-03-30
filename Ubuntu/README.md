@@ -12,3 +12,5 @@ PCB: Eagle? 导出Gerber给工厂.
 
 CAD: SketchUp
 
+用Linux的最大好处就是培养命令思维，用脚本自动化，这个是很多用windows的程序员不能比的。
+
