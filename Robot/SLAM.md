@@ -21,9 +21,9 @@
 
 结构光方案优势在于技术成熟，深度图像分辨率可以做得比较高，但容易受光照影响，室外环境基本不能使用；而TOF方案抗干扰性能好，视角更宽，不足是深度图像分辨率较低。
 
-参考: http://www.rosclub.cn/post-686.html
+参考: [http://www.rosclub.cn/post-686.html](http://www.rosclub.cn/post-686.html)
 
 嵌入式计算视觉处理器, 都是用的FPGA吧???
 
-
+CE30加上RGB就是 奥比中光或者Kinect之类的吧?
 
