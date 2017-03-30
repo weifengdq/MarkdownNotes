@@ -25,7 +25,9 @@
 
 嵌入式计算视觉处理器, 都是用的FPGA吧??? 也可以用一棵STM32F4, F7, H7即可. 免去了FPGA的开发复杂性.
 
-CE30加上RGB就是 奥比中光或者Kinect之类的吧? 就是ToF\(单发单收, 单发双收等\) + RGB, 接口是USB, 以太网或者WiFi.
+CE30加上RGB就是 奥比中光或者Kinect之类的吧? 就是ToF\(单发单收, 单发双收等\) + RGB, 接口是USB, 以太网或者WiFi.  
+
+新产品必备的接口: Ethernet / Wi-Fi / Bluetooth 4.1 / USB, 再加上一个迎合旧技术的4针串口.
 
 激光雷达的量产技术...
 
