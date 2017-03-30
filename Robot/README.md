@@ -12,6 +12,8 @@ ROS机器人俱乐部: [http://www.rosclub.cn/](http://www.rosclub.cn/)
 
 上位机可以选择TK1、RK3288、odroid、树莓派3, Intel Inside或者自配电脑。
 
+CM3\(树莓派3计算模块\)接口: sodimm ddr2, 从官方下载的原理图中得到的. 貌似是国际通用的, 内存条, IMX6核心板, 树莓派计算模块都是用这个接口的.
+
 棋盘标定
 
 Python作为我事实上的标准语言\(ROS, Tensorflow, Processing, PyQT\), C++作为事实上的嵌入式开发语言.
