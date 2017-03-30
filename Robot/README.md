@@ -12,7 +12,7 @@ ROS机器人俱乐部: [http://www.rosclub.cn/](http://www.rosclub.cn/)
 
 棋盘标定
 
-Python作为我事实上的标准语言, C++作为事实上的嵌入式开发语言.
+Python作为我事实上的标准语言\(ROS, Tensorflow, Processing, PyQT\), C++作为事实上的嵌入式开发语言.
 
 学习步骤:
 
