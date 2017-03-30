@@ -8,7 +8,7 @@
 
 SLAM必然要被深度学习取代
 
-http://www.rosclub.cn/post-628.html
+[http://www.rosclub.cn/post-628.html](http://www.rosclub.cn/post-628.html)
 
 ---
 
@@ -41,5 +41,5 @@ CE30加上RGB就是 奥比中光或者Kinect之类的吧? 就是ToF\(单发单�
 
 路径规划, ROS使用的是?
 
-（Dijkstra，A\*等）
+（Dijkstra，A\*等）, 思岚的D\*算法
 

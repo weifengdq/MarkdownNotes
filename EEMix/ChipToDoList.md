@@ -6,3 +6,7 @@ UFQFPN-20 STM8S003F3U6TR 16MHz 8KB 1KB  1.5元 兼容3.3V和5V?
 
 STM32L4看着还凑活?
 
+STM32F042F6P6 6k ram, 32kFLASH, 有USB, TSSOP20封装, 用来做Intersil方案再合适不过了.
+
+
+
