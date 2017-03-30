@@ -10,7 +10,7 @@ ROS机器人俱乐部: [http://www.rosclub.cn/](http://www.rosclub.cn/)
 
 ---
 
-轮式机器人，人形机器人，平衡车，旋翼和固定翼:
+轮式机器人，人形机器人，平衡车，旋翼, 固定翼, 无人车:
 
 * 控制部分正在走向统一:  STM32, 九轴, CP2104 USB转串口, Bootloder, C++, SBUS,PPM, PWM,SPI, IIC, USART, TF卡, 电机编码器接口...
 * 嵌入式部分还未统一: OpenWRT硬件, ARM, ATOM, Nvida GPU+CPU
