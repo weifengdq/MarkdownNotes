@@ -4,6 +4,12 @@
 * 非高斯概率分布的样本集合来表示运动模型--基于粒子滤波器\(RBPF\)的SLAM方法.  PF-SLAM, 如Gmapping
 * gmapping是一个比较早的算法，核心思想是粒子滤波并且需要里程计，但并不要求很高性能的传感器，初学者一般都是先来玩这个，不过请注意一点，gmapping只是mapping，定位还需要amcl这个蒙特卡洛算法包配合使用，最后才能接入navigation stack。
 
+[SLAM相关资料](http://www.jianshu.com/p/ecc9f489d9b2)
+
+深度相机 RGB-D
+
+[三维重建综述](http://www.jianshu.com/p/7ac4990bd93d)
+
 ---
 
 SLAM必然要被深度学习取代
