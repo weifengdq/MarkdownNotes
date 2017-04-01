@@ -24,10 +24,13 @@ sudo apt-get install cmake-qt-gui
 # set optional parameters
 # run: “Configure”
 # run: “Generate”
+cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_INSTALL_PREFIX=/home/weifengdq/Documents/opencv-3.2.0/modules ..
 
+# runs 7 jobs in parallel
+make -j7 
 ```
 
-Reference: http://docs.opencv.org/trunk/d7/d9f/tutorial\_linux\_install.html
+Reference: [http://docs.opencv.org/trunk/d7/d9f/tutorial\_linux\_install.html](http://docs.opencv.org/trunk/d7/d9f/tutorial_linux_install.html)
 
 ---
 
