@@ -14,15 +14,24 @@ make -j
 
 #install OpenCV
 tar -jxvf archive_name.tar.bz2 -C /home/weifengdq/Documents/
+cd ~/Documents/opencv-3.2.0/
+mkdir build
+cd build
+#install cmake-gui
+sudo apt-get install cmake-qt-gui
+# set full path to OpenCV source code, e.g. /home/user/opencv
+# set full path to <cmake_build_dir>, e.g. /home/user/opencv/build
+# set optional parameters
+# run: “Configure”
+# run: “Generate”
+
 ```
 
-
+Reference: http://docs.opencv.org/trunk/d7/d9f/tutorial\_linux\_install.html
 
 ---
 
 ### 备忘
 
 ~: This is easier than typing the full name of the user's home directory, for example: cd  ~ equals cd /home/weifengdq.
-
-
 
