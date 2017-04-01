@@ -8,3 +8,5 @@ STM32L4看着还凑活?
 
 STM32F042F6P6 6k ram, 32kFLASH, 有USB, TSSOP20封装, 用来做Intersil方案再合适不过了. 淘宝销量价 6.8元.
 
+STM32F030K6T6  4+32KB, LQFP32
+
