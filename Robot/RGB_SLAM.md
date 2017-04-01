@@ -27,7 +27,21 @@ sudo apt-get install cmake-qt-gui
 cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_INSTALL_PREFIX=/home/weifengdq/Documents/opencv-3.2.0/modules ..
 
 # runs 7 jobs in parallel
-make -j7 
+make -j7
+sudo make install
+
+#See Version
+pkg-config --modversion opencv
+
+# install eigen
+# http://eigen.tuxfamily.org/index.php?title=Main_Page
+cd ~/Downloads
+tar -xzf eigen-eigen-67e894c6cd8f.tar.gz
+cd eigen-eigen-67e894c6cd8f
+mkdir build
+cd build
+cmake ..
+sudo make install
 ```
 
 Reference: [http://docs.opencv.org/trunk/d7/d9f/tutorial\_linux\_install.html](http://docs.opencv.org/trunk/d7/d9f/tutorial_linux_install.html)
