@@ -6,6 +6,10 @@
 
 [SLAM相关资料](http://www.jianshu.com/p/ecc9f489d9b2)
 
+[ORB-SLAM2详解](http://blog.csdn.net/u010128736/article/details/53409199)
+
+https://github.com/raulmur/ORB\_SLAM2
+
 深度相机 RGB-D
 
 [三维重建综述](http://www.jianshu.com/p/7ac4990bd93d)
