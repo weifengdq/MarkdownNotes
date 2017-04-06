@@ -4,5 +4,19 @@ ROS的主题可以使用TCP/IP和UDP传输. 基于TCP传输称为TCPROS, 使用T
 
 `echo "source /opt/ros/indigo/setup.bash" >> ~/.bashrc`
 
-`history `命令可以查看终端的历史命令
+`history`命令可以查看终端的历史命令.
+
+启动文件可以启动多个节点, 而不用一个一个终端窗口去分别开.
+
+```
+<?xml version="1.0"?>
+<launch>
+    <node name ="example1_a" pkg="chapter2_tutorials" type="example1_a"/>
+    <node name ="example1_b" pkg="chapter2_tutorials" type="example1_b"/>
+</launch>
+```
+
+动态重配置, 如使用PID节点控制电机时.
+
+P29, 创建工作空间要熟练掌握.
 
