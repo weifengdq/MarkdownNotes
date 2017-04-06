@@ -26,13 +26,16 @@ ROS的主题可以使用TCP/IP和UDP传输. 基于TCP传输称为TCPROS, 使用T
 
 P29, 创建工作空间要熟练掌握.
 
-roscore, 使用roslaunch可以忽略上步。.launch一次启动多个节点。
+roscore  
+, 使用roslaunch可以忽略上步。.launch一次启动多个节点。
 
-图形界面的Topic查看:` rosrun rqt_topic rqt_topic`
+图形界面的Topic查看:`rosrun rqt_topic rqt_topic`
 
-发布主题可以使用: rosrun rqt\_publisher rqt\_publisher   
+发布主题可以使用: rosrun rqt\_publisher rqt\_publisher
 
-使用服务: rosrun rqt\_service\_caller rqt\_service\_caller  
+使用服务: rosrun rqt\_service\_caller rqt\_service\_caller
+
+虽然名字是一样的, 前面是功能包的名称, 后面是节点的名称.
 
 ROS有一类特殊节点: nodelet, 可以在单个进程中运行多个 节点, 每个nodelet为一个线程, 这样可以在不实用ROS网络的情况下与其他节点通信, 效率更高, 并避免网络拥塞. nodelet对于摄像头和3D传感器这类数据传输量非常大的设备特别有用.
 
@@ -41,18 +44,48 @@ ROS有一类特殊节点: nodelet, 可以在单个进程中运行多个 节点, 
 ```
 <!--turtlesim drawsquare launch-->  
 <launch>  
-  
+
   <node name="turtlesim_node1" pkg="turtlesim" type="turtlesim_node"/>  
   <node name="turtlesim_node2" pkg="turtlesim" type="turtlesim_node"/>  
   <node name="draw_square" pkg="turtlesim" type="draw_square"/>  
   <node name="rqt_graph" pkg="rqt_graph" type="rqt_graph"/>  
-  
-</launch>  
+
+</launch>
 ```
 
 \(切换到launch文件所在的目录\)直接在终端输入:
 
-`roslaunch turtlesim_drawsquare.launch  `
+`roslaunch turtlesim_drawsquare.launch`
+
+# 3
+
+mkdir -p
+
+> p: parents???
+>
+> -p选项： 创建一个目录的时候，若其父目录不存在，则自动创建，而不是默认的报错。
+>
+> 例如：
+>
+> mkdir /home/a/b
+>
+> 若/home目录下不存在a目录，则会报错。
+>
+> 加上-p选项后，就会先建立a目录，然后在a目录下再建立b目录。
+
+ROS节点可以像正常程序一样调试, 调试程序在系统运行时有一个进程号\(PID\). 你可以用任何标准工具\(如GDB\)进行调试. 同样可以使用valgrind检查内存泄漏, 或者用callgrind分析算法性能.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
