@@ -24,6 +24,18 @@ nohup indicator-sysmonitor &
 
 安装完成后， 可以添加网速显示和开机启动。
 
+Arduino
+
+Processing
+
+STM32CubeMX
+
+Angry IP Scanner
+
+GIF
+
+截图
+
 ---
 
 ROS安装：
@@ -41,5 +53,7 @@ source ~/.bashrc
 sudo apt-get install python-rosinstall
 ```
 
+---
 
+快捷键
 
