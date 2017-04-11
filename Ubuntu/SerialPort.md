@@ -6,7 +6,7 @@
 
 ![](/assets/dev.png)
 
-或者 ls /dev/ttyUSB\*, 只列出USB设备.
+或者 ls /dev/ttyUSB\*, 只列出USB设备. Arduino是 ls /dev/ttyACM\*或者ls /dev/ttyUSB\*.
 
 CuteCom需要 `sudo cutecom` 才能打开串口：
 
