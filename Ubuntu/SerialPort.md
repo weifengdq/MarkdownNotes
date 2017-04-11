@@ -1,3 +1,5 @@
+可以直接使用Arduino自带的串口工具.
+
 使用命令 `lsusb` 和`dmesg | grep tty`
 
 ![](/assets/SerialPort.png)
