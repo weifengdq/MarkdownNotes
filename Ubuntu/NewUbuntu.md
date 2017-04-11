@@ -24,6 +24,13 @@ nohup indicator-sysmonitor &
 
 安装完成后， 可以添加网速显示和开机启动。
 
+CuteCom：串口调试工具
+
+```
+sudo apt-get install cutecom
+sudo cutecom
+```
+
 Arduino
 
 Processing
