@@ -18,7 +18,13 @@ ROS的TF transform 各种变换控制值得学习.
 
 Ubuntu安装ARDUINO可以直接 sudo apt-get install arduino???
 
-Visual Studio 2013 defaults to indenting using tabs. The ROS guidelines are for 2 spaces. 
+Visual Studio 2013 defaults to indenting using tabs. The ROS guidelines are for 2 spaces.
 
-[amcl](http://wiki.ros.org/amcl) amcl is a probabilistic localization system for a robot moving in 2D. 
+[amcl](http://wiki.ros.org/amcl) amcl is a probabilistic localization system for a robot moving in 2D.
+
+导航教程：http://wiki.ros.org/navigation/Tutorials
+
+gmapping教程：　http://wiki.ros.org/slam\_gmapping
+
+http://wiki.ros.org/evarobot\_navigation/Tutorials 选择indigo版本， 这个是通过WiFi连接的.
 
