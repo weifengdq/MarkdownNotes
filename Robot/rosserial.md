@@ -22,9 +22,11 @@ Visual Studio 2013 defaults to indenting using tabs. The ROS guidelines are for 
 
 [amcl](http://wiki.ros.org/amcl) amcl is a probabilistic localization system for a robot moving in 2D.
 
-导航教程：http://wiki.ros.org/navigation/Tutorials
+导航教程：[http://wiki.ros.org/navigation/Tutorials](http://wiki.ros.org/navigation/Tutorials)
 
-gmapping教程：　http://wiki.ros.org/slam\_gmapping
+gmapping教程：　[http://wiki.ros.org/slam\_gmapping](http://wiki.ros.org/slam_gmapping)
 
-http://wiki.ros.org/evarobot\_navigation/Tutorials 选择indigo版本， 这个是通过WiFi连接的.
+[http://wiki.ros.org/evarobot\_navigation/Tutorials](http://wiki.ros.org/evarobot_navigation/Tutorials) 选择indigo版本， 这个是通过WiFi连接的.
+
+[ROS-Industrial\(Indigo\) Training Exercises](http://aeswiki.datasys.swri.edu/rositraining/indigo/Exercises/)　这个系列比较全，可以学习一下.
 
