@@ -1,8 +1,6 @@
-ROS-Industrial\(Indigo\) Training Exercises
+[ROS-Industrial\(Indigo\) Training Exercises](http://aeswiki.datasys.swri.edu/rositraining/indigo/Exercises/)
 
 ---
-
-
 
 跑完HelloWorld例程后下载Blink例程报错： SAM-BA operation failed. 是因为串口被HelloWorld例程终端占用了.
 
@@ -57,10 +55,4 @@ roslaunch turtle\_tf turtle\_tf\_demo.launch
 evince是Linux下的文档查看器.
 
 urdf
-
-
-
-
-
-
 
