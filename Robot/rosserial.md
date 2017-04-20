@@ -1,3 +1,9 @@
+ROS-Industrial\(Indigo\) Training Exercises
+
+---
+
+
+
 跑完HelloWorld例程后下载Blink例程报错： SAM-BA operation failed. 是因为串口被HelloWorld例程终端占用了.
 
 rosbridge  JSON
@@ -40,5 +46,21 @@ gazebo
 
 move-it
 
-OpenRAVE provides an environment for testing, developing, and deploying motion planning algorithms in real-world robotics applications. The main focus is on simulation and analysis of kinematic and geometric information related to motion planning. 
+OpenRAVE provides an environment for testing, developing, and deploying motion planning algorithms in real-world robotics applications. The main focus is on simulation and analysis of kinematic and geometric information related to motion planning.
+
+[Industrial Calibration Toolbox](http://wiki.ros.org/Industrial/Tutorials) 讲了摄像头的校准.
+
+tf教程展示了一个小海龟追赶另一个小海龟：
+
+roslaunch turtle\_tf turtle\_tf\_demo.launch
+
+evince是Linux下的文档查看器.
+
+urdf
+
+
+
+
+
+
 
