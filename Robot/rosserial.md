@@ -30,3 +30,17 @@ gmapping教程：　[http://wiki.ros.org/slam\_gmapping](http://wiki.ros.org/sla
 
 [ROS-Industrial\(Indigo\) Training Exercises](http://aeswiki.datasys.swri.edu/rositraining/indigo/Exercises/)　这个系列比较全，可以学习一下.
 
+https://github.com/ros-industrial/industrial\_training/wiki
+
+[urdf](http://wiki.ros.org/urdf): This package contains a C++ parser for the Unified Robot Description Format \(URDF\), which is an XML format for representing a robot model.
+
+rviz
+
+gazebo
+
+move-it
+
+
+
+
+
