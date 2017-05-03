@@ -10,13 +10,15 @@ Nvidia CUDA：并行计算技术
 
 OpenCL：异构计算
 
-[PCL安装](http://pointclouds.org/downloads/linux.html): 
+[PCL安装](http://pointclouds.org/downloads/linux.html):
 
 ```
 sudo add-apt-repository ppa:v-launchpad-jochen-sprickerhof-de/pcl
 sudo apt-get update
 sudo apt-get install libpcl-all
 ```
+
+教程要结合API文档来看.
 
 
 
