@@ -30,9 +30,7 @@ sudo python get-pip.py
 
 参考:　[https://blog.phpgao.com/pip-easy\_install-setuptool.html](https://blog.phpgao.com/pip-easy_install-setuptool.html)
 
-
-
-安装Numpy, Scipy, matplotlib:
+**安装Numpy, Scipy, matplotlib**:
 
 sudo apt-get install python-dev
 
@@ -42,5 +40,7 @@ sudo apt-get install python-scipy
 
 sudo apt-get install python-matplotlib
 
-有出错就用 sudo apt-get -f install 
+pip install --user matplotlib
+
+有出错就用 sudo apt-get -f install
 
