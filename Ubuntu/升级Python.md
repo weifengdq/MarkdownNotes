@@ -24,13 +24,7 @@ sudo ln -s /usr/local/bin/python2.7 /usr/bin/python
 
 [Pip的安装](http://pip.readthedocs.io/en/latest/installing/)
 
+下载完get-pip.py后, 
 
-
-
-
-
-
-
-
-
+sudo python get-pip.py
 
