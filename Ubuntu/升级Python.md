@@ -1,0 +1,36 @@
+python --version
+
+返回 Python 2.7.6
+
+下载最新的Python 2.7.13
+
+tar -xvf Python-2.7.13.tar.xz
+
+cd Python-2.7.13/
+
+./configure
+
+make
+
+sudo make install
+
+make clean
+
+make distclean
+
+sudo mv /usr/bin/python /usr/bin/python2.7.6
+
+sudo ln -s /usr/local/bin/python2.7 /usr/bin/python
+
+[Pip的安装](http://pip.readthedocs.io/en/latest/installing/)
+
+
+
+
+
+
+
+
+
+
+
